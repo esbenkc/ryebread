@@ -101,6 +101,21 @@
     </li>
   </ul>
   <div class="line" />
+  <h2>WARNING: this is not ryebread</h2>
+  <p>
+    Some shops such as Amazon.com and the general Usonian sphere of influence
+    will spout nonsence about how the following image is ryebread. <b
+      >THIS IS NOT RYEBREAD.</b
+    > It is a sorry excuse and tastes like it. Beware of imposters out there.
+  </p>
+  <picture
+    ><img
+      src="https://www.mestemacher-gmbh.com/wp-content/uploads/2018/09/ProteinBread-GB-RGB_800x707px.png"
+      alt="Not ryebread"
+      srcset=""
+    /></picture
+  >
+  <div class="line" />
   <p><i>Written by an AI and a Dane</i></p>
 </section>
 
