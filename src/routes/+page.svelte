@@ -45,36 +45,42 @@
   </picture>
   <h1>the ryebread manifesto</h1>
   <p>
-    Ryebread makes people happy. There's no denying that a good slice of rye
-    bread can make people happy. A nice, hearty rye bread is the perfect
-    addition to any meal, and it's a great way to show your loved ones that you
-    care.
+    everyone should eat ryebread, the best bread in the world. it tastes <strong
+      >the best</strong
+    > of all the breads. roast it and mix it with every type of hummus, tzatziki,
+    and other spreads. it is the best bread in the world.
   </p>
-  <h2>ryebread is the best bread in the world</h2>
   <p>
-    Ryebread is a type of bread made with rye flour. It is usually denser and
-    darker than bread made with wheat flour, and has a distinctive, slightly
-    sour taste. Ryebread is popular in many European countries, particularly in
-    Scandinavia and Germany. Ryebread philosophically represents all that is
-    good about bread. It is simple, honest, and wholesome. It is the bread of
-    the people, and it nourishes both body and soul. Compared to white bread,
-    ryebread is a nutritional powerhouse, packed with fiber, vitamins, minerals,
-    and antioxidants. It is also lower on the glycemic index, meaning it won't
-    cause spikes in blood sugar levels. For all these reasons, ryebread is the
-    best bread in the world.
+    as you eat ryebread, feel the wonder of the compressed rye and seeds envelop
+    your taste buds and grant you new gut microbiota that will help you live a
+    better life. a life more satisfied with yourself. a life where your family
+    finally loves you. a life where you know yourself. a life... <strong
+      >of ryebread</strong
+    >.
   </p>
+  <h2>ryebread is the best bread</h2>
+  <p>
+    the borders of ryebread have long existed north of central germany. it is
+    eaten in every context in the nordic kingdom and has since its inception
+    been the food of the <strong>strong</strong>.
+  </p>
+  <p />
   <h2>history</h2>
   <p>
-    Ryebread has been around for centuries. It was originally developed in
-    Europe as a way to use rye flour, which was a cheaper and more readily
-    available alternative to wheat flour. Over time, rye bread became a staple
-    food in many parts of Europe, particularly in Scandinavia and Germany. It
-    has always represented the strength and fortitude of the human spirit, as it
-    is a bread that can withstand the harshest of conditions. In recent years,
-    ryebread has experienced a resurgence in popularity, as more and more people
-    are realizing its nutritional benefits. Today, ryebread is enjoyed by people
-    all over the world, and it is sure to remain a staple food for generations
-    to come.
+    ryebread originated in the northern regions as staple food for the people
+    because of the food insecurity of the iron age. plinius the elder, a roman
+    historian, wrote about the bread in his naturalis historia. he wrote that
+    the bread was made from rye and that it was "the bread of the poor". the
+    bread was made from rye and barley, and was baked in a clay oven. he also
+    wrote that the bread was "a very sorry food and not fit for consumption
+    except to avoid starvation".
+  </p>
+  <p>
+    this view has been mistakenly held for many years around the world and is
+    recently accentuated by the Usonian sphere of influence due to the
+    introduction of the "protein bread", the bread you will find if you google
+    ryebread. the protein bread is horrible and there is nothing short of a
+    subjugation of the west coast that will make this go away.
   </p>
   <h2>health</h2>
 
