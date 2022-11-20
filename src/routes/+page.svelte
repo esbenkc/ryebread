@@ -100,6 +100,9 @@
       intolerance, as it is naturally gluten-free.
     </li>
   </ul>
+  <a href="https://nordicexpatshop.com/DKK/schulstad-skovmand-rye-bread"
+    ><i>Buy real bread here (not affiliated)</i></a
+  >
   <div class="line" />
   <h2>WARNING: this is not ryebread</h2>
   <p>
