@@ -77,7 +77,7 @@
   </p>
   <p>
     this view has been mistakenly held for many years around the world and is
-    recently accentuated by the Usonian sphere of influence due to the
+    recently accentuated by the usonian sphere of influence due to the
     introduction of the "protein bread", the bread you will find if you google
     ryebread. the protein bread is horrible and there is nothing short of a
     subjugation of the west coast that will make this go away.
@@ -86,36 +86,36 @@
 
   <ul>
     <li>
-      Ryebread is high in fiber, which can help to regulate digestion and keep
+      ryebread is high in fiber, which can help to regulate digestion and keep
       you feeling full longer.
     </li>
     <li>
-      Ryebread is a good source of whole grains, which provide essential
+      ryebread is a good source of whole grains, which provide essential
       nutrients like vitamins, minerals, and antioxidants.
     </li>
     <li>
-      Ryebread has a lower glycemic index than white bread, meaning it won't
+      ryebread has a lower glycemic index than white bread, meaning it won't
       cause spikes in blood sugar levels.
     </li>
     <li>
-      Ryebread is naturally low in fat and calories, making it a healthy choice
+      ryebread is naturally low in fat and calories, making it a healthy choice
       for those watching their weight.
     </li>
     <li>
-      Ryebread is a good option for people with celiac disease or gluten
+      ryebread is a good option for people with celiac disease or gluten
       intolerance, as it is naturally gluten-free.
     </li>
   </ul>
   <a href="https://nordicexpatshop.com/DKK/schulstad-skovmand-rye-bread"
-    ><i>Buy real bread here (not affiliated)</i></a
+    ><i>buy real bread here (not affiliated)</i></a
   >
   <div class="line" />
   <h2>WARNING: this is not ryebread</h2>
   <p>
-    Some shops such as Amazon.com and the general Usonian sphere of influence
+    some shops such as amazon.com and the general usonian sphere of influence
     will spout nonsence about how the following image is ryebread. <b
       >THIS IS NOT RYEBREAD.</b
-    > It is a sorry excuse and tastes like it. Beware of imposters out there.
+    > it is a sorry excuse and tastes like it. beware of imposters out there.
   </p>
   <picture
     ><img
@@ -132,7 +132,6 @@
   :global(body) {
     font-family: monospace;
   }
-
   p,
   li {
     font-size: 1rem;
@@ -158,5 +157,11 @@
 
   img {
     height: 300px;
+    width: auto;
+  }
+
+  section {
+    width: 100%;
+    overflow: hidden;
   }
 </style>
